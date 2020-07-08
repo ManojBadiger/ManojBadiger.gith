@@ -1,1 +1,1 @@
-# kutir-store
+# kuteer udyog
